@@ -1,0 +1,1335 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Madrigalls to foure voyces newly published by Thomas Morley. The first booke</title>
+            <title>Madrigals, voices (4)</title>
+            <author>Morley, Thomas, 1557-1603?</author>
+         </titleStmt>
+         <extent>Approx. 86KB of XML-encoded text transcribed from 82 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A07744</idno><idno type="EEBO-CITATION">99848232</idno>
+  <idno type="VID">13312</idno>
+  <idno type="EEBO-PROQUEST">2240863527</idno>
+  <idno type="STC">STC 18127</idno>
+  <idno type="STC">ESTC S112991</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99848232e"/>
+            <note>(EEBO-TCP ; phase 2, no. A07744)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 13312)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 440:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Madrigalls to foure voyces newly published by Thomas Morley. The first booke</title>
+                  <title>Madrigals, voices (4)</title>
+                  <author>Morley, Thomas, 1557-1603?</author>
+               </titleStmt>
+               <extent>[120] p. : music  </extent>
+               <publicationStmt>
+                  <publisher>By Thomas Est in Aldersgate street at the signe of the black horse,</publisher>
+                  <pubPlace>In London :</pubPlace>
+                  <date>M.D.XC.IV. [1594]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Four partbooks, each with separate dated title page and register. At foot of title, part 1, "Cantus."; part 2, "Altus."; part 3, "Tenor"; part 4, "Bassus.".</note>
+                  <note>Signatures: [A]²  B-E⁴ F² ; [A]²  B-E⁴ F² ; [A]²  B-E⁴ F² ; [A]²  B-E⁴ F² .</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Madrigals, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text>
+      <group>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:13312:1"/>
+                  <pb facs="tcp:13312:1"/>
+                  <p>MADRIGALLS</p>
+                  <p>TO FOVRE VOYCES NEWLY PVBLISHED BY THOMAS MORLEY. THE FIRST BOOKE.</p>
+                  <p>IN LONDON BY THOMAS EST IN AL<g ref="char:EOLhyphen"/>dersgate street at the signe of the black horse.</p>
+                  <p>M.D.XC.IV.</p>
+                  <p>CANTVS.</p>
+               </div>
+               <div type="encomium">
+                  <pb facs="tcp:13312:2"/>
+                  <pb facs="tcp:13312:2"/>
+                  <head>TO THE AƲTHOR.</head>
+                  <l>MORLEY! would any try whither MORe LYeth</l>
+                  <l>In our ENGLISH, to merit</l>
+                  <l>Or in th'ITALIAN spirit</l>
+                  <l>Who in regard of his each wit defieth?</l>
+                  <l>Lo the cleare proofe then if a man would make it</l>
+                  <l>(O would some one but try it)</l>
+                  <l>To choose his Song, and Gold enough lay by it,</l>
+                  <l>And say to thee; heere, better this and take it.</l>
+                  <l>I know (how ere thou lik'st them) thou could'st doe it</l>
+                  <l>Wert thou but so put to it.</l>
+                  <l>For if thou sing'st thus when nought doth incite thee</l>
+                  <l>Aware when PRAYSE and GOLD did both inuite thee.</l>
+                  <closer>
+                     <signed>Jncerto.</signed>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div n="cantus" type="musical_part">
+                  <div n="1" type="song">
+                     <pb facs="tcp:13312:3"/>
+                     <pb facs="tcp:13312:3"/>
+                     <head>I. CANTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">A</seg>Prill is in my Mistris face, ij. my Mistris face. Aprill is in my Mistris face, And Iuly in hir eyes hath place, And Iuly in hir eyes, hir eyes hath place. With in hir bosome, with in hir bosome, is Septem╌ber, But in hir heart, But in hir heart, hir heart, a could De<g ref="char:EOLhyphen"/>cember. But in hir heart, But in hir heart, hir heart, a could December.</p>
+                  </div>
+                  <div n="2" type="song">
+                     <pb facs="tcp:13312:4"/>
+                     <head>II. CANTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">C</seg>Lorinda false adieu thy loue tormēts mee, thy loue tormēts me; let Thirses Thirses haue thy hart since hee contents thee, Clorinda false adieu thy loue torments mee; thy loue tormēts mee; let Thirsis Thirsis haue thy hart since hee contents thee, O griefe &amp; bit╌ter anguish ij. for thee I languish. Faine I alas would hide it ij. O but who can a╌bide it? I can I can not I a╌bide it. A╌dieu adieu adieu thē, ij. fare wel, leaue my death now desiring; thou hast lo thy requiring. Thus
+<pb facs="tcp:13312:4"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> spake, Philistus on his hooke relying, thus spake hee on his hooke relying, and sweetly sweet fell a dye╌ing. Thus spake Philistus on his hooke rely╌ing, ij. so spake he on his hooke relying, &amp; sweetly sweetly sweet fel a dye╌ing.</p>
+                  </div>
+                  <div n="3" type="song">
+                     <pb facs="tcp:13312:5"/>
+                     <head>III. CANTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">W</seg>Hy sit I heere (alas) complaining? Why sit, why fit I heere (alas) complaining, sit I heere complai<g ref="char:EOLhyphen"/>ning! with sobs &amp; gronings, ij. -ij. my disdaining. O this cōtenteth, whome griefe tormēteth. Ah cease this wee╌ping this weeping, foole alas ij. she does but this to proue, to proue thee: a<g ref="char:EOLhyphen"/>way away away a╌way away false comfort; no thou canst not moue mee: thou canst y<seg rend="sup">u</seg> canst not moue mee, moue mee, thou canst y<seg rend="sup">u</seg> canst not moue me, You y<seg rend="sup">t</seg> saw to much, mine eies, shal deerly buy it, you y<seg rend="sup">t</seg> saw to much to
+<pb facs="tcp:13312:5"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> much mine eies, shal deer╌ly buy it, y<seg rend="sup">t</seg> made my hart my hart beleue, I did es<g ref="char:EOLhyphen"/>py it, Hence falce comfort in vaine thou doest ease mee, comfort in vaine thou seekst to ease mee, A╌way I say then, a╌way I say thou canst not please mee, a╌way I say then, O y<seg rend="sup">u</seg> canst not thou canst not please, no thou canst not please mee, thou canst not please not please mee, thou canst not please mee, A╌way I say ij. a╌way I say thou canst not please mee.</p>
+                  </div>
+                  <div n="4" type="song">
+                     <pb facs="tcp:13312:6"/>
+                     <head>IIII. CANTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">S</seg>Ince my teares and lamenting, false loue bred thy content<g ref="char:EOLhyphen"/>ing, ij. still thus to weep for euer ij. these fountaines shall perseuer shall perse╌uer. Till my hart griefe-brim filled, till my hart my hart, till my hart griefe-brim fill╌ed griefe-brim fill╌ed. (Out a╌las) a╌las be distill╌ed. Out a╌las alas be distill<g ref="char:EOLhyphen"/>ed. Till my hart griefe-brim filled. til my hart my hart, til my hart griefe-brim fill╌ed griefe-brim fill╌ed. Out a╌las a╌las be distill╌ed. Out a╌las a╌las be destill╌ed.</p>
+                  </div>
+                  <div n="5" type="song">
+                     <pb facs="tcp:13312:6"/>
+                     <head>V. CANTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">H</seg>Elp I fall, I fall, Ladie, my hope lo doth betray mee, my hope lo doth bee╌tray mee; O help alas I fall, I fall, but you voutsafe to slay mee, Help I fall, I fal, I fall, my hope lo doth betray me, O help I fall Lady I fal but you vout<g ref="char:EOLhyphen"/>safe to slay mee. See a Nymph vnkind and cruell, ij. and cru╌ell, vnkind &amp; cruell, vnkind vnkind &amp; cru╌ell, to scorn hir onely Iu╌ell. See a Nymph vnkind &amp; cruell, ij. and cru╌el, vnkind &amp; cruel, vnkind, vn: ij. to scorn hir onely Iuel.</p>
+                  </div>
+                  <div n="6" type="song">
+                     <pb facs="tcp:13312:7"/>
+                     <head>VI. CANTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">L</seg>Lady Lady why grieue you still mee? Lady O no you loue mee, ô no you loue you loue mee, If this be loue to kill me. O strange tormēting, strāge tormēting break ah, break, alas, hart alas, ah, break, break hart alas hir hart conten<g ref="char:EOLhyphen"/>ting. And you that now doe disdain mee, And you that now disdaine mee, that now doe disdaine mee; Say then that griefe hath slaine mee, ij. Say then that griefe hath slaine mee, And you that now doe disdaine mee, you that now, that now dis<g ref="char:EOLhyphen"/>daine
+<pb facs="tcp:13312:7"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> mee, that now doe disdaine mee, thē say that griefe hath slayne mee ij. then say that griefe hath slayne mee.</p>
+                  </div>
+                  <div n="7" type="song">
+                     <pb facs="tcp:13312:8"/>
+                     <head>VII. CANTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">I</seg>N dewe of roses, ij. of roses stee<g ref="char:EOLhyphen"/>ping hir louely cheekes Lycoris thus satt weeping. In dewe of roses, In dewe of roses steeping, hir louely cheekes Lyco<g ref="char:EOLhyphen"/>ris Lycoris thus satt weeping. Ah Dorus falce ij. y<seg rend="sup">t</seg> hast my hart be<g ref="char:EOLhyphen"/>reft mee, and now vnkind hast left mee, heare a╌las heare ô heare mee, ay mee, ay mee, can not my bewty moue thee? Pitty thē, pitty mee because I loue thee: Ay mee, thou skorn'st the more I praye thee, and this thou doest to slaie mee. thou doest to slaye mee. thou skorn'st the more I
+<pb facs="tcp:13312:8"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> praye thee, and all to slaie mee, yea this thou doest thou doest to slaie mee. Ah doe then, then doe kill mee and vaunt thee, kil mee: yet my ghost still shall haunt ij. ij. yet my ghost still shall haunt thee.</p>
+                     <pb facs="tcp:13312:9"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb facs="tcp:13312:9"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                  </div>
+                  <div n="8" type="song">
+                     <pb facs="tcp:13312:10"/>
+                     <head>VIII. CANTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">I</seg>N euery place, ij. falce Loue a<g ref="char:EOLhyphen"/>las assailes mee, &amp; grief doth so formēt so tor<g ref="char:EOLhyphen"/>ment mee, that how can Ioy con╌tent mee? when hope and faith and all no whit auailes mee? O gentle Loue, O gentle gentle Loue, O gentle Loue, ô graunt mee lesse to grieue mee, or grieue mee more, ij. or grieue mee more, and griefe will soone relieue mee.</p>
+                  </div>
+                  <div n="9" type="song">
+                     <pb facs="tcp:13312:10"/>
+                     <head>IX. CANTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">N</seg>Ow is the gentle season freshly flowring, to sing and play and daunce while May endu<g ref="char:EOLhyphen"/>reth, while May endu╌reth, while May en╌dureth, to sing &amp; play &amp; daūce while May endureth, while May endu╌reth; and wooe &amp; wed (toe) ij. &amp; wooe &amp; wed (toe) ij. and wooe &amp; wed, &amp; wooe and wed (toe) and wooe and wed, that sweet delight procureth.</p>
+                  </div>
+                  <div n="10" type="song">
+                     <pb facs="tcp:13312:11"/>
+                     <head>X. CANTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">T</seg>He fields abroad with spāgled flowres are guilded. The fields abroad with spāgled flowres are guil<g ref="char:EOLhyphen"/>ded. with spangled flowres are guilded. The meades (are) mantled. ij. the meades (are) mantled, the meades (are) mantled and closes, in May each bush a╌rayed, &amp; sweet &amp; sweet wilde roses, and sweet wilde ro<g ref="char:EOLhyphen"/>ses; the Nightingale hir boure hath gay╌ly builded, the Nightingale hir bowre hath gayly hath gayly buil╌ded, and full of kindely lust, and Loues inspi╌ring; I loue I loue, ij. I loue I loue (she)
+<pb facs="tcp:13312:11"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> sings hark ij. hir mate desiring; and full of kindely lust, &amp; Loues inspi╌ring: I loue I loue ij. I loue I loue (she) sings hark ij. hir mate desiring.</p>
+                  </div>
+                  <div n="11" type="song">
+                     <pb facs="tcp:13312:12"/>
+                     <head>XI. CANTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">C</seg>Ome Louers follow me ij. &amp; leaue this wee<g ref="char:EOLhyphen"/>ping follow mee, ij. see where the Louely little God, where the Louely God Sweet╌ly lies a sleeping ij. where the Louely little God, where the louely God lies sleeping. Soft then: softly for feare wee wake him ij. softly for feare wee wake him, and to his bowe he take him his bowe he take him. O thē if he but spie vs if he but spie vs, whether shall wee thē flye vs; ij. shall wee flie vs? And if he come, ij. and if he come vpon
+<pb facs="tcp:13312:12"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> vs, Out well a╌way ij. out well a╌way then are wee woe beegon vs. Hence then a╌way follow mee, a╌way begon follow mee, dispatch vs, hence then a╌way follow mee a╌way beegon dispatch vs; and that a pace, that a pace, for feare hee catch vs, &amp; that a pace least hee catch vs and that a pace, ere hee wake, for feare hee catch vs.</p>
+                  </div>
+                  <div n="12" type="song">
+                     <pb facs="tcp:13312:13"/>
+                     <head>XII. CANTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">N</seg>O no no no no no thou doest but flout mee, thou doest flout, thou doest flout mee, thou doest flout thou doest flout mee thou doest but flout mee: fie a way ij. fie a way ij. fie a way I say, nay, thou canst liue canst liue with out mee, yea thou canst liue well with out mee, yea thou canst liue with out mee. Since for mee then you care not, you care not spite mee and spare not. O heauie par╌ting; turne ô turne, turne ô turne &amp; cure this smarting. Come then ô come with
+<pb facs="tcp:13312:13"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> comfort, ô come with comfort, come then, ô come with Com<g ref="char:EOLhyphen"/>fort ô come with comfort com╌fort pi╌tie my crying. ô helpe a╌las, ô help a╌las ô help a╌las for now I lye a dye╌ing. come then ô come with com╌fort, come then ô come with com<g ref="char:EOLhyphen"/>fort come╌fort, pi╌tie my crying, ô help a╌las, ô help a╌las, ô help a<g ref="char:EOLhyphen"/>las help a╌las for now I lye a dye╌ing.</p>
+                     <pb facs="tcp:13312:14"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb facs="tcp:13312:14"/>
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                  </div>
+                  <div n="13" type="song">
+                     <pb facs="tcp:13312:15"/>
+                     <head>XIII. CANTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">I</seg> will no more no more come to thee come to thee I wil no more come to thee, y<seg rend="sup">t</seg> flowtst mee when I woe thee. I will no more, no more come to thee, I wil no more come to thee, that flowt'st mee when I woe thee. Still ty hy hy hy hy ij. thou cryest still ty hy hy hy hy ij. still ty hy hy hy hy y<seg rend="sup">t</seg> cryest still ty hy hy hy hy thou cryest; &amp; all my louely louely louely rings &amp; my pinnes and my gloues denyest. O say alas, ô say what moues thee what moues thee, to grieue him so, to grieue him
+<pb facs="tcp:13312:15"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> so that loues thee? Leaue a╌las, ah leaue a╌las, leaue tormenting, ah leaue ah leaue leaue a╌las tormenting, and giue my burning my burning, yet yet some small relenting. Leaue a╌las, ah leaue tor<g ref="char:EOLhyphen"/>men╌ting, ah leue alas alas a while, alas leue a while leue alas tormen<g ref="char:EOLhyphen"/>ting, and giue my burning yet some small relenting.</p>
+                  </div>
+                  <div n="14" type="song">
+                     <pb facs="tcp:13312:16"/>
+                     <head>XIIII. CANTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">B</seg>Eesides a foūtaine, ij. of sweete brier and roses; heard I two Louers talk in sweet &amp; wanton gloses. Besides a fountaine, ij. of sweet brier &amp; roses; heard I two Louers (loueing) talk these sweet and wāton gloses, Say dainty deere, quoth hee, to whom, tel me, daintie deer quoth hee, to whome is thy liking ty╌ed? To whome but thee my bonny loue; to whom but thee my bonny bonny bonny loue my loue y<seg rend="sup">e</seg> gentle Nimphe replied. I die I die I die quoth hee quoth hee; &amp; I &amp; I &amp; I said
+<pb facs="tcp:13312:16"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> shee, Ah giue me then, ah giue me, giue me then quoth hee but he durst not say giue mee some token, and with his hands the rest hee would haue spo<g ref="char:EOLhyphen"/>ken; fie a╌way nay fie a╌way, cryed the Nimph then, fie a╌way, nay fie a╌way then cry'd the Nimphe (a╌las) you well doe know it: Ah quoth hee sweetly come kisse mee then sweetly come kisse mee then, sweetly kisse mee and shew it.</p>
+                  </div>
+                  <div n="15" type="song">
+                     <pb facs="tcp:13312:17"/>
+                     <head>The first part. XV CANTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">S</seg>Port wee, Sport wee my louely treasure ij. Sport wee my louely trea<g ref="char:EOLhyphen"/>sure my louely treasure ij. For why, long loue long ser<g ref="char:EOLhyphen"/>uing ij. Asketh equall de╌seruing deser╌uing, Asketh e<g ref="char:EOLhyphen"/>quall de╌seruing, de╌seruing deseruing, Asketh equal equal de╌ser╌uing, Let bee our sportfull pleasure, ij. Let bee our sportfull pleasure pleasure, Let bee our sportfull pleasure, our sportfull plea<g ref="char:EOLhyphen"/>sure. To kisse, to kisse ij. To kisse to kisse to kisse the while wee
+<pb facs="tcp:13312:17"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> may now, To kisse the while wee may now, And that you wot well what Loues other token. Ioy more then can bee spoken, ij. Ioy more then can bee spo╌ken. Ioy more then can bee spoken bee spoken.</p>
+                  </div>
+                  <div n="16" type="song">
+                     <pb facs="tcp:13312:18"/>
+                     <head>The second part. XVI. CANTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">O</seg> Swet a╌las, ij. O sweet a╌las what say you? O sweet a╌las ij. O sweet a<g ref="char:EOLhyphen"/>las what say you? O sweet a╌las, ij. O sweet a╌las what say you? ay mee, ay mee, that face ay mee that face that face discloses, The Scarlet blush, of sweet vermillian roses, and yet a╌las, and yet a╌las I know not, If such a crimsen, staining, be for loue, be for loue or disdaining But if of loue it grow not, ij. but if of loue it grow not, ij. bee it disdain cōceiued, to see vs of loues
+<pb facs="tcp:13312:18"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> fruits so long so long be╌reued. But if of loue it grow not, ij. But if of loue it grow not, but if of loue, but if of loue it grow not, bee it disdaine conceiued, to see vs of loues fruits so long be╌reued so long bee╌re╌ued.</p>
+                  </div>
+                  <div n="17" type="song">
+                     <pb facs="tcp:13312:19"/>
+                     <head>XVII. CANTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">H</seg>Ark iolly shepheards hark: hark you you lusty ringing! hark (a╌las) hark how cheerefully the bells daunce hark how cheerefully the bells, how cheerfully the bells daunce, the whilst the ladds are springing. Gow then, why sit wee heere delaying? sit wee heere thus delaying, why sit wee delaying, why then sit wee delaying? and all yon merry merry merry wanton lasses play╌ing, &amp; all yon merry merry laddes, and merry merry wanton lasses wanton lasses playing, and all yon merry merry lads merry lads, lads and
+<pb facs="tcp:13312:19"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> lasses playing. How gayly Flora leads it, &amp; sweetly treads it? The woods &amp; groues they ring, they ring lowdly resoūding, with Eccho sweet re╌boū<g ref="char:EOLhyphen"/>ding. The woods and groues they ring they ring lowdly resounding, with Eccho sweet rebounding.</p>
+                  </div>
+                  <div n="18" type="song">
+                     <pb facs="tcp:13312:20"/>
+                     <head>XVIII. CANTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">H</seg>Oe who comes here all alone with bagpiping &amp; drūming with bagpiping &amp; drūming? O the Morris tis I see; tis the Morris ij. daunce a cōming. Hoe who comes heere all a╌lone with bagpiping &amp; drūming, ij. O the Morris tis I see, tis the Morris, ij. daūce a comming. Come Ladies come come quickly, ij. come away come I say, ô come, come quickly, &amp; see a╌bout how trim, how trim they daūce &amp; trickly. and see about how trim they daūce &amp; trickly. Hey ther a╌gain hey ho ther a<g ref="char:EOLhyphen"/>gain,
+<pb facs="tcp:13312:20"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> hey ho how y<seg rend="sup">e</seg> bells they shake it! now for our town hey ho, now for our town ther &amp; take it: now for our town hey ho, now for our town &amp; take it. Soft a while not a way so fast, they melt them: Piper, Piper, Piper! be hāgd a while knaue, looke, y<seg rend="sup">e</seg> dauncers swelt thē, y<seg rend="sup">e</seg> daūcers swelt thē. Out ther, out a while stand out you come to far, to far you come I say in, ther giue the hobby horse more rome for to play in, ther giue the hobby horse more rome to play in, more rome to play in.</p>
+                  </div>
+                  <div n="19" type="song">
+                     <pb facs="tcp:13312:21"/>
+                     <head>XIX. CANTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">D</seg>Ye now my heart from thy delight exi<g ref="char:EOLhyphen"/>led, dye now my hart from thy delight e╌xi╌led, thy loue is dead and all our hope bee╌guiled. O Death ô Death vnkind and cruell, vnkind &amp; cruell, to rob the world so, of that hir fayrest iewell, hir fairest iewell. Now shoot at mee now shoot &amp; spare not, Now shoot at mee now shoot &amp; spare not, now shoot at mee and spare not, kill mee I care not. Thinck not ô Death a<g ref="char:EOLhyphen"/>las thy dart shall paine mee; why shouldst why shouldst thou
+<pb facs="tcp:13312:21"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> heere against my will re╌taine mee, retaine mee? O heare a dolfull, a dolfull wretches crying, or I dye for want of dyeing, ij. or I dye for wāt of dyeing, or I dye I dye for want of dyeing.</p>
+                  </div>
+                  <div n="20" type="song">
+                     <pb facs="tcp:13312:22"/>
+                     <head>XX. CANTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">S</seg>Ay gentle Nymphes y<seg rend="sup">e</seg> tread these mountains saye gentle Nymphes that tread these moun<g ref="char:EOLhyphen"/>taines these mountaines, whilst sweetly you sit playing, ij. sit playing, sweetly sit playing. whilst sweetly you sit playing. Saw you my Daphne ij. my (Sweet) Daphne stray╌ing a<g ref="char:EOLhyphen"/>long your Cristall foū╌tains. If so you chaunce to meete kisse hir and kindly greet hir, then these sweet gar╌lands take hir, and say from mee, and say from mee I neuer will for╌sake hir. If so you chaunce to meet
+<pb facs="tcp:13312:22"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> hir, kise hir and kindly greet hir, then these sweet gar╌lands take hir, and say from mee, and say from mee I neuer will for╌sake hir.</p>
+                  </div>
+               </div>
+            </body>
+            <back>
+               <div type="table_of_contents">
+                  <pb facs="tcp:13312:23"/>
+                  <head>A TABLE OF ALL THE MADRIGALLS.</head>
+                  <list>
+                     <item>APrill is in my Mistris face. I.</item>
+                     <item>Clorinda. II.</item>
+                     <item>Why sit I heere complayning? III.</item>
+                     <item>Since my teares and lamenting. IIII.</item>
+                     <item>Help I fall. V.</item>
+                     <item>Ladie why grieue you still mee. VI.</item>
+                     <item>In dewe of roses. VII.</item>
+                     <item>In euery place. VIII.</item>
+                     <item>Now is the gentle season. The first part. IX.</item>
+                     <item>The fields a broad. The second part. X.</item>
+                     <item>Come Louers follow mee. XI.</item>
+                     <item>No, no, shee doth but flout mee. XII.</item>
+                     <item>I will no more come to thee. XIII.</item>
+                     <item>Beesides a fountaine. XIIII.</item>
+                     <item>Sport wee my Louely treasure. The first part. XV.</item>
+                     <item>O sweet alas. The second part. XVI.</item>
+                     <item>Hark iolly Shepherds. XVII.</item>
+                     <item>Hoe who comes heere. XVIII.</item>
+                     <item>Dye now my hart. XIX.</item>
+                     <item>Say gentle Nymphes. XX.</item>
+                  </list>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:13312:23"/>
+                  <p>MADRIGALLS TO FOVRE VOYCES NEWLY PVBLISHED BY THOMAS MORLEY. THE FIRST BOOKE.</p>
+                  <p>IN LONDON BY THOMAS EST IN AL<g ref="char:EOLhyphen"/>dersgate street at the signe of the black horse.</p>
+                  <p>M.D.XC.IV.</p>
+                  <p>ALTVS.</p>
+               </div>
+               <div type="encomium">
+                  <pb facs="tcp:13312:24"/>
+                  <pb facs="tcp:13312:24"/>
+                  <head>TO THE AƲTHOR.</head>
+                  <l>MORLEY! would any try whither MORe LYeth</l>
+                  <l>In our ENGLISH, to merit</l>
+                  <l>Or in th'ITALIAN spirit</l>
+                  <l>Who in regard of his each wit defieth?</l>
+                  <l>Lo the cleare proofe then if a man would make it</l>
+                  <l>(O would some one but try it)</l>
+                  <l>To choose his Song, and Gold enough lay by it,</l>
+                  <l>And say to thee; heere, better this and take it.</l>
+                  <l>I know (how ere thou lik'st them) thou could'st doe it</l>
+                  <l>Wert thou but so put to it.</l>
+                  <l>For if thou sing'st thus when nought doth incite thee</l>
+                  <l>Aware when PRAYSE and GOLD did both inuite thee.</l>
+                  <closer>
+                     <signed>Jncerto.</signed>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div n="altus" type="musical_part">
+                  <div n="1" type="song">
+                     <pb facs="tcp:13312:25"/>
+                     <pb facs="tcp:13312:25"/>
+                     <head>I. ALTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">A</seg>Prill is in my Mistris if face, ij. Aprill is in my Mistris face, And Iuly in hir eyes hath place, And Iuly in hir eyes hir eyes hath place. With in hir bosome, ij. is Septem╌ber, But in hir hart hir hart, a could Decem╌ber, But in hir heart hir heart, But in hir hart hir hart, a could Decem╌ber.</p>
+                  </div>
+                  <div n="2" type="song">
+                     <pb facs="tcp:13312:26"/>
+                     <head>II. ALTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">C</seg>Lorinda falce, adieu thy loue, adieu thy loue tor<g ref="char:EOLhyphen"/>mēts mee, thy loue tormēts mee; Let Thirsis Thirsis haue thy hart, since he cōtēts contents thee Clorinda falce adieu thy loue, a<g ref="char:EOLhyphen"/>dieu thy loue torments mee, thy loue torments mee; Let Thirsis Thirsis haue thy hart since hee cōtents contents thee. O griefe &amp; bitter an<g ref="char:EOLhyphen"/>guish, O griefe and bitter an╌guish; for thee I lāguish. Faine I a<g ref="char:EOLhyphen"/>las, would hide it ij. but ô who can a╌bide it? I can not I a╌bide it, Adieu adieu adieu thē, ij.
+<pb facs="tcp:13312:26"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> farewel, leaue me death now desiring, y<seg rend="sup">u</seg> hast lo thy requiring. So spake Phi<g ref="char:EOLhyphen"/>listus on his hooke re╌lying, ij. &amp; sweetly sweetly fel a dieing. So spake Philistus once, so spake hee, so spake he on his hooke relying, So spake Philistus on his hooke relying. So spake Phi╌li╌stus on his hooke relying, &amp; sweetly sweetly fell a dyeing.</p>
+                  </div>
+                  <div n="3" type="song">
+                     <pb facs="tcp:13312:27"/>
+                     <head>III ALTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">W</seg>Hy sit I heere (a╌las) complayning? Why sit I heere (alone alas) why sit I heere alone cōplai<g ref="char:EOLhyphen"/>ning! With sobs &amp; gronings, ij. ij. my vniust disdai<g ref="char:EOLhyphen"/>ning. O this this mirth con╌tenteth, whom grief of minde tor╌menteth. Ah cease this wee╌ping, cease this weping, foole alas, ij. ij. she does but this to proue thee; a╌way away away away away falce com<g ref="char:EOLhyphen"/>fort, no thou canst not, thou canst not moue mee, thou canst thou cāst not moue mee, thou cāst thou canst not moue mee. You
+<pb facs="tcp:13312:27"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> that saw to much mine eies, deerly shal buy it: you that saw to much mine eyes, deerly shal buy it, y<seg rend="sup">t</seg> made my hart beleue I did espy it, did espy it, Hence away comfort in vaine thou dost ease mee, comfort in vaine thou seekest to ease mee; a╌way I say then, a╌way I say, no thou canst not please mee, a╌way I say no thou canst not please mee, no thou canst not please thou canst not please mee, thou canst not please mee. ij. a╌way I say ij. ij. thou canst thou canst not please mee.</p>
+                  </div>
+                  <div n="4" type="song">
+                     <pb facs="tcp:13312:28"/>
+                     <head>IIII. ALTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">S</seg>Ince my teares and lamenting, falce loue breed thy cōten<g ref="char:EOLhyphen"/>ting. ij. still thus to weep for euer, ij. these fountaines shall perseuer shall perseuer. Till my hart grief brim filled. ij. Til my hart grief brim filled griefe brim filled. Out alas be distilled. Out a╌las a╌las Out a╌las alas bee di╌still╌ed. Till my hart griefe brim filled. ij. Till my hart griefe-brim fill<g ref="char:EOLhyphen"/>ed griefe brim filled. Out alas be distilled. Out a╌las a╌las. Out a<g ref="char:EOLhyphen"/>las a╌las bee di╌still╌ed.</p>
+                  </div>
+                  <div n="5" type="song">
+                     <pb facs="tcp:13312:28"/>
+                     <head>V. ALTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">H</seg>Elp I fall I fall my hope lo doth beetray mee, my hope a╌las Lady lo doth betray mee, O help a╌las I fall, I fall a╌las I fal, but you voutsafe to slay me. Help I fall I fal Lady, help I fal my hope lo doth betray me. O help I fal I fal a╌las a<g ref="char:EOLhyphen"/>las I fall but you voutsafe to slay mee. See a Nymph vnkind &amp; cruell, ij. &amp; cruell vnkind &amp; cruell, ij. vnkind &amp; cruel, to scorn hir onely Iuel. See a: See a: &amp; cruel vnkind &amp; cruel, ij. vnkind &amp; cruel to scorn hir onely Iuell.</p>
+                  </div>
+                  <div n="6" type="song">
+                     <pb facs="tcp:13312:29"/>
+                     <head>VI. ALTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">L</seg>A╌dy Lady why grieue you stil mee? ô no you loue mee, ij. O no, you loue you loue mee, you loue mee, If this be loue to kill to kill mee. O strange tormenting, ah, break, ah, ah, break break hart a╌las, hir hart contēting, And you that now doe disdain; me, you y<seg rend="sup">t</seg> now y<seg rend="sup">t</seg> now dis<g ref="char:EOLhyphen"/>daine mee, y<seg rend="sup">t</seg> now doe disdaine mee, thē say y<seg rend="sup">t</seg> griefe hath slaine mee; ij. then say that griefe hath slaine mee. And you that now doe disdaine mee, and you that now disdaine
+<pb facs="tcp:13312:29"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> mee that now doe disdaine mee, Say then that griefe hath slaine mee, ij. Say then that griefe hath slayne mee.</p>
+                  </div>
+                  <div n="7" type="song">
+                     <pb facs="tcp:13312:30"/>
+                     <head>VII. ALTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">I</seg>N dewe of roses, in dewe of roses stee<g ref="char:EOLhyphen"/>ping hir louely cheekes Lycoris Lycoris thus satt weeping. In dewe of roses, ij. of roses stee<g ref="char:EOLhyphen"/>ping hir Louely cheekes, Lyco╌ris thus satt weeping. Ah Dorus falce, ij that hart by hart my hart beereft mee, &amp; now vnkind hast left mee. Heare a╌las heare O heare mee, ay mee, ay mee, can not my bewty moue thee, not moue thee? pittie mee thē because I loue thee. Ay mee: thou skorn'st the more I praye, thou skorn'st the
+<pb facs="tcp:13312:30"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> more the more I praye thee, and this thou doest to slaie mee. thou skorn'st the more I pray thee, and this thou doest to slay mee. and all to slay mee. But doe then doe, kil mee and vaunt thee, ij. yet my ghost still shall haunt thee, yet my ghost still shall haunt, ij. yet my ghost still shall haunt shall haunt thee.</p>
+                  </div>
+                  <div n="8" type="song">
+                     <pb facs="tcp:13312:31"/>
+                     <head>VIII. ALTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">I</seg>N euery place, In euery: place fierce Loue In euery place, in e<g ref="char:EOLhyphen"/>uery place fierce Loue a╌las fierce Loue a╌las assailes mee; &amp; griefe doth so tor╌ment mee, doth so torment mee, torment mee, that how can Ioy content mee, content mee? when hope no whit at all a<g ref="char:EOLhyphen"/>uailes mee. O gentle Loue, ij. O gentle gentle Loue, O gen<g ref="char:EOLhyphen"/>tle Loue, O graunt mee lesse to grieue mee, Or griue mee more ij. or grieue mee more, and griefe will soone relieue mee.</p>
+                  </div>
+                  <div n="9" type="song">
+                     <pb facs="tcp:13312:31"/>
+                     <head>The first part. IX. ALTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">N</seg>Ow is the gentle season freshly flow<g ref="char:EOLhyphen"/>ring, to sing &amp; play &amp; daunce while May endu<g ref="char:EOLhyphen"/>reth, while May endureth, to sing and play &amp; daunce while May endureth, ij. to sing &amp; play &amp; daunce while May en<g ref="char:EOLhyphen"/>dureth, &amp; wooe &amp; wed (toe) &amp; wed (toe) &amp; wooe &amp; wed (toe) ij. and wooe and wed, and wed (toe) and wooe and wed, that sweet delight procu╌reth.</p>
+                  </div>
+                  <div n="10" type="song">
+                     <pb facs="tcp:13312:32"/>
+                     <head>The second part. X. ALTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">T</seg>He fields abroad with spangled flowres are guil╌ded, with spāgled flowres are guil<g ref="char:EOLhyphen"/>ded, the fields with spangled flowres are guilded, with spangled flowres are guilded, The meades (are) mantled, ij. the meades (are) mant<g ref="char:EOLhyphen"/>led, ij. the meades (are) mantled and closes, in May each bush a<g ref="char:EOLhyphen"/>rayed, and sweet wilde roses and sweet wilde roses; the Nightingale hir bowre hath gayly builded, ij. hath gay╌ly builded, &amp; full of kindely lust, and Loues inspi╌ring: I loue I loue ij.
+<pb facs="tcp:13312:32"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> I loue I loue (she) sings hark, I loue I loue (she) sings hark hir mate desi<g ref="char:EOLhyphen"/>ring; &amp; full of kindely lust, and Loues inspi╌ring; I loue I loue ij. I loue I loue (she) sings hark, I loue I loue (she) sings hark, hir mate desi╌ring.</p>
+                  </div>
+                  <div n="11" type="song">
+                     <pb facs="tcp:13312:33"/>
+                     <head>XI. ALTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">C</seg>Ome Louers follow mee, ij &amp; leaue this weeping, follow mee, ij. See where the Louely little little God, sweet╌ly, lyes a sleeping. where the Louely little God the Louely little God, lies sweetly slee<g ref="char:EOLhyphen"/>ping. Soft then, softly for feare wee wake him, ij. wee wake him, and to his bowe, his bowe hee take him, and to his bow hee take him; O then if hee but spie vs, if hee but spie vs, whe<g ref="char:EOLhyphen"/>ther shall wee then fly vs, whether shall wee then fly vs? And
+<pb facs="tcp:13312:33"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> if hee come, ij. ij. and if hee come vp╌on vs, Out well a way ij. well a way, then are wee woe begon begon vs. Hence then a way follow mee beegon follow mee; hence then a way follow mee dispatch vs. &amp; y<seg rend="sup">t</seg> a pace, y<seg rend="sup">t</seg> a pace, for feare, least y<seg rend="sup">t</seg> hee catch vs; and that a pace least hee catch vs, &amp; that a pace ere hee wake for feare hee catch vs.</p>
+                  </div>
+                  <div n="12" type="song">
+                     <pb facs="tcp:13312:34"/>
+                     <head>XII. ALTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">N</seg>O no no no no no thou doest but flout mee, thou doest flout, thou doest flout mee, thou doest but flout, but flout mee. Fie a way, fie a way fie a way fie a way I say, nay thou canst liue, nay thou canst liue without mee, thou canst liue well without mee, yea thou canst liue without mee. Since for mee then you care not, spite mee and spare not. O what parting! turne ô turne, turn ô turne turne ô turne &amp; cure this smarting. Come thē ô come with com╌fort, come then ô come with com╌fort com<g ref="char:EOLhyphen"/>fort
+<pb facs="tcp:13312:34"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> pi╌tie my crying. ô help a╌las, ô help a╌las ô help a<g ref="char:EOLhyphen"/>las help a╌las for now I lye a dye╌ing. Come then ô come with cōfort, ô come with cōfort, come thē ô come with cōfort ô come with com<g ref="char:EOLhyphen"/>fort com╌fort pi╌tie my crying, ô help a╌las ij. ô help a╌las for now I lye a dyeing.</p>
+                  </div>
+                  <div n="13" type="song">
+                     <pb facs="tcp:13312:35"/>
+                     <head>XIII. ALTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">I</seg> wil no more no more come to thee, I will no more come to thee, that flowtst mee when I woe thee. I will no more no more come to thee come to thee, I will no more come to thee that flout'st mee when I woe thee Still ty hy hy hy hy, ty hy hy hy y<seg rend="sup">u</seg> criest, ij. stil ty hy hy hy hy hy y<seg rend="sup">u</seg> criest stil ty hy hy hy hy thou cryest, ty hy hy y<seg rend="sup">u</seg> criest; and all my rings, my pinnes, &amp; my gloues deniest. O say alas, what moues what moues thee, to grieue him so, that loues that loues thee that loues
+<pb facs="tcp:13312:35"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> thee? Leaue a╌las then, leaue tor╌menting, ô leaue a╌las a<g ref="char:EOLhyphen"/>las a while a╌las, leaue a while leaue a╌las tormen╌ting, &amp; giue my bur<g ref="char:EOLhyphen"/>ning yet some small relenting. Leaue a╌las then leaue a╌las leaue tormen<g ref="char:EOLhyphen"/>ting, ah leaue ah leaue leaue a╌las tormēting, &amp; giue my burning, my burning, yet yet some small relen╌ting.</p>
+                  </div>
+                  <div n="14" type="song">
+                     <pb facs="tcp:13312:36"/>
+                     <head>XIIII. ALTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">B</seg>Eesides a foūtaine, ij. of sweet brier and roses, heard I two Louers (loueing) talk in sweet and wāton gloses. Besides a fountaine ij. of sweet brier and roses, heard I two Louers talk in sweet &amp; wāton gloses. Say dainty deere, quoth hee, to whome; Say daintie deere to whom, is thy liking ty╌ed? To whom but thee my bonny bonny bonny loue, my loue; to whom but thee my bonny loue, my loue, the gentle Nimph repli╌ed. I die, I die, I die quoth hee? &amp; I, &amp; I, &amp; I quoth
+<pb facs="tcp:13312:36"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> shee, Ah giue mee then, ah giue mee giue mee then (quoth hee) but said durst he not giue me some tokē; &amp; with his hands y<seg rend="sup">e</seg> rest he would haue spoken. Fie a╌way, nay cry'd the Nimph, fie a╌way nay cryed the Nimphe, nay fie away (a╌las) to wel yow know it; Ah quoth hee; Sweetly come kisse mee then ij. sweetly come kisse mee then and shew it.</p>
+                  </div>
+                  <div n="15" type="song">
+                     <pb facs="tcp:13312:37"/>
+                     <head>The first part. XV. ALTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">S</seg>Port wee, ij. Sport we my louely tresure, my louely treasure. Sport we my louely treasure, Sport wee my louely louely louely treasure, For why, long loue, long seruing. ij. Asketh equal deseruing, Asketh e<g ref="char:EOLhyphen"/>quall de╌seruing ij. Asketh equall de╌ser<g ref="char:EOLhyphen"/>uing. ij. Let bee our sportfull pleasure, our sportfull pleasure, Let bee our sportfull plea╌sure, ij. our
+<pb facs="tcp:13312:37"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> sportfull pleasure, To kisse to kisse ij. To kisse to kisse now, to kisse the while wee may now, ij. and that you wot well what Loues other token, Ioy more then can bee spoken bee spoken Ioy more then can bee spoken. Ioy more then can bee spoken bee spoken.</p>
+                  </div>
+                  <div n="16" type="song">
+                     <pb facs="tcp:13312:38"/>
+                     <head>The second part. XVI. ALTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">O</seg> Sweet a╌las, ij. O sweet a╌las what say you? O sweet a╌las, ij. O sweet a<g ref="char:EOLhyphen"/>las what say you? O sweet a╌las, O sweet a╌las a╌las what say you? ay mee ij. ay mee, ay mee that face, ay mee that face discloses, the Scarlet blush, of sweet vermillian roses, and yet a╌las, &amp; yet a╌las a<g ref="char:EOLhyphen"/>las I know not, If such a crimsen stayning, be for loue, ij bee fore loue or disdaining. But if of loue it grow not, ij. But if of loue it grow not, but if of loue, but if of loue it grow
+<pb facs="tcp:13312:38"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> not, bee it disdaine cōceiued, to see vs of loues fruits so long bereued. so long bee╌re╌ued. But if of loue it grow not, ij. But if of loue it grow not, ij. Bee it disdain dis╌dain concei<g ref="char:EOLhyphen"/>ued, to see vs of loues fruites so long so long bee╌reued.</p>
+                  </div>
+                  <div n="17" type="song">
+                     <pb facs="tcp:13312:39"/>
+                     <head>XVII. ALTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">H</seg>Ark iolly shepheards, hark, hark you you lusty ringing ringing, how cherfully the bells daūce, the bells they daūce, how cherfully the bells daūce, the whiles the lads are springing. Gow then why sit wee heere delaying? sit wee heere thus de<g ref="char:EOLhyphen"/>laying, why thē why sit we delaying, sit we delaying, &amp; all you merry lasses merry merry wanton lasses playing; &amp; all you merry merry lasses playing and all you merry merry laddes and lasses play╌ing. How gayly Flora leads it, &amp; sweetly treads it. The woods &amp; groues they ring, wods &amp;
+<pb facs="tcp:13312:39"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> groues ring loudly resounding, with Eccho sweet reboūding. The wods &amp; groues they ring, woods &amp; groues ring, loudely resoūding, with Eccho sweet rebounding.</p>
+                  </div>
+                  <div n="18" type="song">
+                     <pb facs="tcp:13312:40"/>
+                     <head>XVIII. ALTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">H</seg>Oe who comes heere: All a╌long with bagpiping and drūming, with bagpiping &amp; drūming? ô the Mor<g ref="char:EOLhyphen"/>ris daūce it is cōming, ô the Morris daūce lo it is a cōming, Hoe who comes heere, all along, comes heere all along with bagpiping &amp; drumming? ij. ô y<seg rend="sup">e</seg> Morris daūce it is cōming, ô the Morris daūce lo it is a cōming. Come come Ladies, come Ladies out, come ye Ladies out, come Ladies out, ô come, come quickly, &amp; see a bout how trim they daūce a<g ref="char:EOLhyphen"/>bout how trim &amp; trickly, &amp; see about how trim they daūce &amp; trickly.
+<pb facs="tcp:13312:40"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Hey ther a╌gayn, ij. ther again ij. hey ther again how y<seg rend="sup">e</seg> bells they shake it? now for our town once, for our town &amp; take it: now for our town, ij. hey ho, now for our town once more &amp; take it. Soft a while not a way so fast they melt thē. Piper! Piper! Piper! be hāg'd a while thē looke; be hang'd a while knaue seest not, the daūcers how they swelt thē? Out ther, out a while, you come I say in: ther giue y<seg rend="sup">e</seg> hobby horse more rome, ij. to play in, ther giue the hobby horse more rome to play in, more rome to play in.</p>
+                  </div>
+                  <div n="19" type="song">
+                     <pb facs="tcp:13312:41"/>
+                     <head>XIX. ALTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">D</seg>Ye now my heart from thy de╌light exi<g ref="char:EOLhyphen"/>led, exi╌led, from thy de╌light exiled, thy loue is dead and all our hope bee╌gui╌led, thy loue is dead and all our hope beeguiled. O Death thrise cruell, O Death ô death vn<g ref="char:EOLhyphen"/>kind and cruell, to rob the world so of that hir fayrest iewell, of that hir fayrest iewell. Now shoot at mee now shoot &amp; spare not, now shoot at mee now shoot and spare not, and spare and spare not; kill mee I care not, Thinck not ô Death a╌las, thy dart will paine mee;
+<pb facs="tcp:13312:41"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> why shouldst why shouldst y<seg rend="sup">u</seg> here against my wil re╌tain me, gainst my wil re<g ref="char:EOLhyphen"/>taine mee? O heere a dolfull wretches cry╌ing, or I dye for want of dyeing, or I dye I dye, or I die for want of dyeing or I dye for want I dye for want of dye╌ing.</p>
+                  </div>
+                  <div n="20" type="song">
+                     <pb facs="tcp:13312:42"/>
+                     <head>XX. ALTVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">S</seg>Ay gentle Nymphes that treade these moun<g ref="char:EOLhyphen"/>taines, (you) that tread these mountaines, Say gentle gentle Nymphes (you) that tread these mountaines, whilst sweetly you sit playing whilst sweetly sweetly sweetly you sit playing, you sit play<g ref="char:EOLhyphen"/>ing, sweetly sit playing, whilst sweetly you sit playing, Saw you my Daph<g ref="char:EOLhyphen"/>ne, ij. Saw you my Daphne ij. stray╌ing a<g ref="char:EOLhyphen"/>long, your Cristall fountaines? If so you chaūce to meet hir, kisse hir (O) and kindly greet kingly greet hir, then these sweet garlands,
+<pb facs="tcp:13312:42"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> these sweet garlands take hir, and say from mee, I neuer will for<g ref="char:EOLhyphen"/>sake forsake hir. If so you chaunce to meet hir, kisse hir (O) and kindly greet, kindly greet hir, then these sweet garlands these sweet garlands take hir &amp; say from mee, I neuer will forsake forsake hir.</p>
+                  </div>
+               </div>
+            </body>
+            <back>
+               <div type="table_of_contents">
+                  <pb facs="tcp:13312:43"/>
+                  <head>A TABLE OF ALL THE MADRIGALLS.</head>
+                  <list>
+                     <item>APrill is in my Mistris face. I.</item>
+                     <item>Clorinda. II.</item>
+                     <item>Why sit I heere complayning? III.</item>
+                     <item>Since my teares and lamenting. IIII.</item>
+                     <item>Help I fall. V.</item>
+                     <item>Ladie why grieue you still mee. VI.</item>
+                     <item>In dewe of roses. VII.</item>
+                     <item>In euery place. VIII.</item>
+                     <item>Now is the gentle season. The first part. IX.</item>
+                     <item>The fields a broad. The second part. X.</item>
+                     <item>Come Louers follow mee. XI.</item>
+                     <item>No, no, shee doth but flout mee. XII.</item>
+                     <item>I will no more come to thee. XIII.</item>
+                     <item>Beesides a fountaine. XIIII.</item>
+                     <item>Sport wee my Louely treasure. The first part. XV.</item>
+                     <item>O sweet alas. The second part. XVI.</item>
+                     <item>Hark iolly Shepherds. XVII.</item>
+                     <item>Hoe who comes heere. XVIII.</item>
+                     <item>Dye now my hart. XIX.</item>
+                     <item>Say gentle Nymphes. XX.</item>
+                  </list>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:13312:43"/>
+                  <p>MADRIGALLS TO FOVRE VOYCES NEWLY PVBLISHED BY THOMAS MORLEY. THE FIRST BOOKE.</p>
+                  <p>IN LONDON BY THOMAS EST IN AL<g ref="char:EOLhyphen"/>dersgate street at the signe of the black horse.</p>
+                  <p>M.D.XC.IV.</p>
+                  <p>TENOR</p>
+               </div>
+               <div type="encomium">
+                  <pb facs="tcp:13312:44"/>
+                  <pb facs="tcp:13312:44"/>
+                  <head>TO THE AƲTHOR.</head>
+                  <l>MORLEY! would any try whither MORe LYeth</l>
+                  <l>In our ENGLISH, to merit</l>
+                  <l>Or in th'ITALIAN spirit</l>
+                  <l>Who in regard of his each wit defieth?</l>
+                  <l>Lo the cleare proofe then if a man would make it</l>
+                  <l>(O would some one but try it)</l>
+                  <l>To choose his Song, and Gold enough lay by it,</l>
+                  <l>And say to thee; heere, better this and take it.</l>
+                  <l>I know (how ere thou lik'st them) thou could'st doe it</l>
+                  <l>Wert thou but so put to it.</l>
+                  <l>For if thou sing'st thus when nought doth incite thee</l>
+                  <l>Aware when PRAYSE and GOLD did both inuite thee.</l>
+                  <closer>
+                     <signed>Jncerto.</signed>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div n="tenor" type="musical_part">
+                  <div n="1" type="song">
+                     <pb facs="tcp:13312:45"/>
+                     <pb facs="tcp:13312:45"/>
+                     <head>I. TENOR.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">A</seg>Prill is in my Mistris face, ij. my Mistris face, And Iuly in hir eyes hath place, hir eyes hath place. With in hir bosome, with in hir bosome is Septem<g ref="char:EOLhyphen"/>ber, But in hir hart hir hart, a could December, But in hir hart, But in hir heart, a could December.</p>
+                  </div>
+                  <div n="2" type="song">
+                     <pb facs="tcp:13312:46"/>
+                     <head>II. TENOR.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">C</seg>Lorinda falce: Adieu thy loue torments mee, thy loue tormēts me. Clorinda falce adieu thy loue tormēts mee, let Thirses haue thy hart since he contents thee. A╌dieu thy loue tor<g ref="char:EOLhyphen"/>ments mee, thy loue torments mee. Clorinda falce adieu thy loue torments mee; let Thirsis haue thy hart since hee cōtents thee. O griefe &amp; bitter an<g ref="char:EOLhyphen"/>guish bitter anguish, for thee vnkind I lāguish. Faine, I alas would hide it ij. faine I a╌las would hide it, O but who can a╌bide it? I can not I a╌bide abide it. A╌dieu adieu adieu thē, ij.
+<pb facs="tcp:13312:46"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> fare well, leaue mee death now de╌siring, y<seg rend="sup">u</seg> hast lo thy requiring. So spake Philistus on his hooke re╌lying, So spake Phy<g ref="char:EOLunhyphen"/>listus on his booke relying, &amp; sweetly sweetly fel a dyeing. So spake Phi╌listus once, So spake he, so spake hee on his hooke re╌lying; So spake Philistus on his hooke relying, ij. and sweetly sweety fell a dyeinng.</p>
+                  </div>
+                  <div n="3" type="song">
+                     <pb facs="tcp:13312:47"/>
+                     <head>III. TENOR.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">W</seg>Hy fit I heere? complayning? With sobs and gronings, with sobs and gronings, with sobs and gronings, &amp; gro╌nings my disdaining. O this this mirth con╌ten<g ref="char:EOLhyphen"/>teth, whom grief of minde tormēteth tormēteth. Ah cease this wee<g ref="char:EOLhyphen"/>ping, cease (a╌las) this weeping, this weeping, foole a╌las, foole a<g ref="char:EOLhyphen"/>las, ij. foole she does but this to proue thee; away away away away falce comfort, away falce comfort, thou canst not, no thou canst not moue mee, thou cāst y<seg rend="sup">u</seg> cāst not moue mee, no y<seg rend="sup">u</seg> cāst not moue mee, y<seg rend="sup">u</seg> canst thou
+<pb facs="tcp:13312:47"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> canst not moue mee, You y<seg rend="sup">t</seg> saw to much mine eies, deerly shal buy it: you y<seg rend="sup">t</seg> saw to much to much mine eyes, shall deerly buy it, deerely shall buy it, that made my heart bee╌leue I did espy I did e╌spy it. Hence falce comfort in vaine thou doest ease mee, comfort in vaine thou doest e╌ase mee; a╌way I say, then a╌way thou canst not please mee, a╌way I say, no, no, no, thou canst not no, no, no, no, no, thou canst not please mee, no thou canst not please mee. a╌way I say ij. a<g ref="char:EOLhyphen"/>way I say thou canst not please mee.</p>
+                  </div>
+                  <div n="4" type="song">
+                     <pb facs="tcp:13312:48"/>
+                     <head>IIII. TENOR.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">S</seg>Ince my teares and lamenting, falce loue breed thy cōten<g ref="char:EOLhyphen"/>ting. ij. still thus to weep for euer, ij. these fountaines shall perseuer shall perseuer. Till my hart griefe brim filled. ij. Till my hart grief brim filled griefe brim filled. Out a<g ref="char:EOLhyphen"/>las bee distilled bee distilled. Out a╌las bee distilled bee distilled. Till my hart griefe brim filled. ij. Till my hart griefe-brim fill<g ref="char:EOLhyphen"/>ed griefe brim filled. Out alas be distilled be distilled. Out a╌las bee di<g ref="char:EOLhyphen"/>stilled bee distilled.</p>
+                  </div>
+                  <div n="5" type="song">
+                     <pb facs="tcp:13312:48"/>
+                     <head>V. TENOR.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">H</seg>Elp I fall I fall ô I fall my hope lo doth betray me, my hope a╌las ô my hope lo doth betray me, O help I fall, Ladie I fall, ô help I fal, but you voutsafe to slay mee. Help I fall I fal I fal a╌las my hope lo doth betray me. O help I fal I fall Lady ô help I fall but you voutsafe to slay mee. See a Nymph vnkind &amp; cruell, ij. vnkind &amp; cruell, ij. a Nimph vnkind &amp; cruel, to scorn hir onely Iuel. See a: ij. vnkind &amp; cruel, ij. a Nimph vn: to scorn hir onely Iuell.</p>
+                  </div>
+                  <div n="6" type="song">
+                     <pb facs="tcp:13312:49"/>
+                     <head>VI. TENOR.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">L</seg>Ady Lady why grieue you stil mee? ô no, you loue me, ij. ô no, you loue me, ô no you loue you loue mee. O no no you loue mee: If this be loue to kill mee. O strange tormenting, strange tormenting: break, ah, hart a╌las, break alas, break, hart break hart alas hir hart cōtēting. &amp; you y<seg rend="sup">t</seg> now doe dis<g ref="char:EOLhyphen"/>dain me, &amp; you that now disdain; y<seg rend="sup">t</seg> now doe disdaine mee, that now dis<g ref="char:EOLhyphen"/>daine disdaine mee; Say then that griefe hath slaine mee; Say then that griefe y<seg rend="sup">e</seg> griefe hath slaine mee. Say then y<seg rend="sup">t</seg> griefe hath slaine mee. ij
+<pb facs="tcp:13312:49"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> And you that now doe disdaine mee, and you that now dis<g ref="char:EOLhyphen"/>daine, that now doe dis╌daine mee that now disdaine disdaine mee, Say then that griefe hath slayne mee, say then that griefe that griefe hath slayne mee, Say then that griefe hath slyne mee, Say then that griefe hath slayne mee.</p>
+                  </div>
+                  <div n="7" type="song">
+                     <pb facs="tcp:13312:50"/>
+                     <head>VII. TENOR.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">I</seg>N dewe of roses: Hir louely cheekes Lycoris, Lycoris thus fatt weeping. In dewe of roses; hir Louely cheekes Lycoris Lycoris thus satt weeping. Ah Dorus falce, ij. that hast my hart my hart bereft mee, &amp; now vn<g ref="char:EOLhyphen"/>kind hast left mee. Heare a╌las heare O heare mee, ay mee, ay mee, can not my bew╌ty moue thee? pittie pittie thē mee pittie mee bee<g ref="char:EOLhyphen"/>cause I loue thee. Ay mee, thou skorn'st the more I praye thou skorn'st the more I praye thee, and this thou doest to slaie mee, and
+<pb facs="tcp:13312:50"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> this thou doest to slay to slay mee; thou skorn'st y<seg rend="sup">e</seg> more I pray thee, I pray thee, and this thou doest to slaie mee. Ah doe then doe, ij. kil mee and vaunt thee, ij. yet my ghost still shall haunt, ij. ij. still it shall haunt thee.</p>
+                  </div>
+                  <div n="8" type="song">
+                     <pb facs="tcp:13312:51"/>
+                     <head>VIII. TENOR.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">I</seg>N euery place ij. In euery place fierce Loue a╌las assailes mee as<g ref="char:EOLhyphen"/>sailes mee, and griefe doth so torment torment mee, doth so torment mee, that how can Ioy content mee? con╌tent mee, when hope and faith and all no whit auailes mee. auailes mee. O gentle Loue, ij. ij. O gentle Loue, gentle Loue, O graunt mee lesse to grieue to grieue mee, Or griue mee more ij. ij. or grieue mee more, and griefe will soone will soone relieue mee.</p>
+                  </div>
+                  <div n="9" type="song">
+                     <pb facs="tcp:13312:51"/>
+                     <head>IX. TENOR.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">N</seg>Ow is the gentle season freshly flowring, to sing and play &amp; daunce while May while May endureth, while May endureth, to sing and play and daunce while May endureth, ij. &amp; wooe &amp; wed (toe) ij. and wooe &amp; wed (toe) ij. and wooe and wed (toe) ij. and wooe and wed that sweet delight procureth.</p>
+                  </div>
+                  <div n="10" type="song">
+                     <pb facs="tcp:13312:52"/>
+                     <head>X. TENOR.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">T</seg>He fields abroad with spangled flowres are guilded, The fields abroad with spāgled flowres are guilded with spangled flowres are guilded, The meades (are) mantled, ij. the meades (are) mantled, ij. and closes; in May each bush araied, &amp; sweet wilde roses, ij. The Nightingale hir bowre hath gay╌ly gayly builded, the Nightingale hir bowre, hir bowre hath gay<g ref="char:EOLhyphen"/>ly gayly builded, and full of kindely lust and Loues inspi╌ring, I loue I loue ij. I loue I loue (she) sings hark, I loue I loue (she)
+<pb facs="tcp:13312:52"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> sings hark, hir mate desi╌ring; and full of kindely lust, and Loues inspi╌ring; I loue I loue ij. I loue I loue (she) sings hark, I loue I loue (she) sings hark, hir mate desi╌ring.</p>
+                  </div>
+                  <div n="11" type="song">
+                     <pb facs="tcp:13312:53"/>
+                     <head>XI. TENOR.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">C</seg>Ome Louers follow mee, &amp; leaue this wee<g ref="char:EOLhyphen"/>ping, follow mee come follow mee, See where the Louely littell God, where y<seg rend="sup">e</seg> Louely God, lies a sleeping, where the Louely little God, See where the Louely God lyes sleeping. Soft then, softly for feare wee wake him, wee wake him, and to his bowe hee take him, his bowe hee take him, and to his bowe hee take him: O then if hee but spie vs, then if hee but spie vs, whether shall wee then fly vs? fly vs, whether shall wee then fly shall wee flye vs? And if hee
+<pb facs="tcp:13312:53"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> come ij. and if hee come ij. and if hee come vp<g ref="char:EOLhyphen"/>on vs. Out well a way, ij out well a way a way then are wee woe bee╌gon vs. Hence thē a way follow mee begon, hence follow mee bee╌gon dispatch vs, Hence then away bee╌gon follow mee dispatch vs; and that a pace least that hee catch vs, and that a pace, least if hee wake hee catch vs hee catch vs.</p>
+                  </div>
+                  <div n="12" type="song">
+                     <pb facs="tcp:13312:54"/>
+                     <head>XII. TENOR.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">N</seg>O no no no no no thou doest but flout mee, thou doest flout, thou doest flout, mee, thou doest but flout mee thou doest but flout mee. Fie a way, fie a way fie a way I say fie a way, fie fie a way nay thou, canst liue without mee thou canst liue without mee without mee yea y<seg rend="sup">u</seg> canst liue with╌out me with out mee. Since for mee then you care not, for mee you care not, spite mee and spare not. O heauie parting heauie heauie parting, Turne ô turne turne and cure this smarting. Come then ô
+<pb facs="tcp:13312:54"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> come with comfort, com╌fort with comfort come then ô come with comfort com╌fort pi╌tie my cry╌ing. help a╌las, help a╌las a╌las for now I lye a dyeing. Come then ô come with comfort, com╌fort with comfort: Come then ô come with comfort com╌fort pi╌tie my cry╌ing, help a<g ref="char:EOLhyphen"/>las help a╌las a╌las for now I lye a dieyng.</p>
+                  </div>
+                  <div n="13" type="song">
+                     <pb facs="tcp:13312:55"/>
+                     <head>XIII. TENOR.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">I</seg> will no more come to thee that flowt'st mee — when I woe thee. I wil no more come to thee come to thee, I will no more come to thee that flowt's mee when I woe thee. Still hy hy hy hy hy thou cry╌est, still ty hy hy hy hy, ty hy hy y<seg rend="sup">u</seg> cryest, still ty hy hy hy hy ij. still ty hy hy hy hy thou criest, &amp; all my louely louely rings, &amp; pinnes &amp; gloues deniest. O, say a╌las, ij what moues thee to grieue to grieue him so, to grieue him so that loues that loues thee, Leaue a╌las
+<pb facs="tcp:13312:55"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> then, leaue a╌las, leaue a╌las tormenting, ah leaue a╌las ij. then, ah leaue tormenting, &amp; giue my burning, my burning, some smal relen<g ref="char:EOLhyphen"/>ting. Leaue alas thē leaue alas ij. tormenting, ah leaue a╌las ij. then, ah leaue tormenting, and giue my burning, my burning, some small relenting.</p>
+                  </div>
+                  <div n="14" type="song">
+                     <pb facs="tcp:13312:56"/>
+                     <head>XIIII. TENOR.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">B</seg>Eesids a foūtaine, ij. of sweet brier &amp; roses, heard I two louers talk in sweet &amp; wāton glo<g ref="char:EOLhyphen"/>ses. Besides a fountaine ij. of sweet brier &amp; roses, heard I two Louers talk in sweet &amp; wāton gloses. Say dainty deer, quoth he, to whom is thy liking ty╌ed? To whom but thee my bonny loue, to thee my bonny loue y<seg rend="sup">e</seg> gētle Nimph re╌plied. I die, I die, I die quoth hee? &amp; I &amp; I &amp; I said she. Ah giue mee then quoth hee, giue mee giue mee giue mee giue mee thē, but durst not say a╌las some token; &amp; with his hands the rest he would haue spo<g ref="char:EOLhyphen"/>ken.
+<pb facs="tcp:13312:56"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Fie a╌way, nay cry'd the Nimph, fie a╌way nay fie away then cryed the Nimphe, nay fie a╌way nay, fie a╌las you well doe know it: quoth hee sweetly come kisse mee then, sweetly come kisse mee then, sweetly and shew it.</p>
+                  </div>
+                  <div n="15" type="song">
+                     <pb facs="tcp:13312:57"/>
+                     <head>The first part. XV. TENOR.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">S</seg>Port wee, Sport wee my louely treasure, my louely treasure. Sport wee my louely treasure, ij. my louely treasure, For why; long loue long ser╌uing. ij. Asketh equall de╌ser╌uing Asketh equall de╌ser╌uing deseruing, Asketh equall de╌ser╌uing. Let bee our sportfull pleasure, ij. Let bee our sportfull plea<g ref="char:EOLhyphen"/>sure, our sportfull pleasure, ij. our sportfull pleasure to kisse to
+<pb facs="tcp:13312:57"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> kisse, ij. To kisse to kisse, ij. To kisse the while wee may now ij. And that you wot well what loues other to╌ken, Ioy more thē can bee spoken. Ioy more then can bee spoken spo<g ref="char:EOLhyphen"/>ken, Ioy more then can bee spoken, then can bee spo╌ken.</p>
+                  </div>
+                  <div n="17" type="song">
+                     <pb facs="tcp:13312:58"/>
+                     <head>XVII. TENOR.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">H</seg>Ark iolly Shepheards: Hark you you lusty ringing how cheerfully the bells daūce, hark how cheerful<g ref="char:EOLhyphen"/>ly cheerfully daunce the bells while you Iolly Iolly Iolly ladds are spring<g ref="char:EOLhyphen"/>ing, Gowe then, why sit wee heere delaying; why doe wee heere sit de╌lay<g ref="char:EOLhyphen"/>ing, gowe thē why sit wee heere delay╌ing sit we heere delay╌ing &amp; all you merry merry wāton lasses playing, &amp; al you merry merry lads, &amp; merry merry lasses so merrely play╌ing &amp; all you merry merry wāton lasses, merry wāton lasses playing. How gayly Flora fayre, gayly how she leades it, and sweet<g ref="char:EOLhyphen"/>ly
+<pb facs="tcp:13312:58"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> treads it, y<seg rend="sup">e</seg> woods &amp; groues they ring they ring ij. wods &amp; groues they ring lowdly re╌sownding with Eccho sweet rebounding. The woods and groues they ring they ring they ring woods &amp; groues they ring lowdly re<g ref="char:EOLhyphen"/>sown╌ding, with Eccho sweet rebounding.</p>
+                  </div>
+                  <div n="18" type="song">
+                     <pb facs="tcp:13312:59"/>
+                     <head>XVIII. TENOR.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">H</seg>Oe who comes heere: All along who comes heere, with bagpiping &amp; drūming? tis the Morris daūce the Morris daūce a comming a cōming, tis the Morris cōming. Hoe who comes heere, all along who comes heere with bagpiping &amp; drūming? tis y<seg rend="sup">e</seg> Morris daūce the Morris daunce a cōming a cōming, tis the Morris cōming. Come Ladies quickly, come Ladies out come quickly, come Ladies out come quick<g ref="char:EOLhyphen"/>ly, &amp; see a bout how trim they daūce trim and trickly, &amp; see about how trim, how trim, ô how trim, how trim they daūce &amp; trickly. Hey there a<g ref="char:EOLhyphen"/>gayn,
+<pb facs="tcp:13312:59"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> hey ho ther again, her ther againe, hey ho ther againe hey ther again, the bells hey how they shake it? now for our towne once ther, now for our town there &amp; take it, now for our town for our town, now now for our towne once more and take it. Soft a while not a way so fast the melt them. Who calls? who calls? be hāg'd a while knaues all what care I y<seg rend="sup">e</seg> daūcers though they swelt they swelt them? Out ther, you come to far I say in: ther giue y<seg rend="sup">e</seg> hobby horse rome, ther giue the hobby horse more rome to play in, more rome to play in, yet more rome to play in.</p>
+                  </div>
+                  <div n="19" type="song">
+                     <pb facs="tcp:13312:60"/>
+                     <head>XIX. TENOR.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">D</seg>Ye now my heart from thy delight exiled ex<g ref="char:EOLhyphen"/>iled, die now my hart from thy delight exiled; thy loue is dead and all our hope bee╌guiled, thy loue is dead and all our hope bee╌guiled. O Death ô Death vnkind O death vn<g ref="char:EOLhyphen"/>kind and cruell to rob the world so of that hir fayrest iewell, of that hir fayrest iewell iewell. Now shoot at mee now shoot and spare not, now shoot at mee and spare not, ij. now shoot and spare not, kill mee I care not, O think not
+<pb facs="tcp:13312:60"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Death a╌las thy dart will paine mee, thinck not thy dart will paine mee, why shouldst why shouldst thou heere a gainst my will retaine mee? O heere a dolefull cry╌ing, heere a dolefull crying, a dolefull wretches crying, or I die for want of dye╌ing, or I dye for want for want of dye<g ref="char:EOLhyphen"/>ing, or I die for want, or I die for want, for want of dieing.</p>
+                  </div>
+                  <div n="20" type="song">
+                     <pb facs="tcp:13312:61"/>
+                     <head>XX. TENOR.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">S</seg>Ay gentle Nymphes, that tread these moun<g ref="char:EOLhyphen"/>taynes that tread these mountayns, Say gentle Nymphes that tread these mountains whilst sweetly you fit playing you sit play<g ref="char:EOLhyphen"/>ing, whilst sweetly you fit playing, ij. sweetly fit play<g ref="char:EOLhyphen"/>ing, whilst sweetly you sit playing, Saw you my Daphne, ij. Saw you my Daphne straying, a╌long your Cristall fountaines? If so you chaūe to meet hir, kisse hir and kindly greet hir, kisse hir and greet hir, then these sweet garlands take hir, &amp; say from mee, and say from
+<pb facs="tcp:13312:61"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> mee I neuer will, I neuer will forsake hir. If so you chaūe to meet hir, kisse hir and kindly greet hir, kisse hir and greet hir, then these sweet garlands take hir, and say from mee, and say from mee I neuer will, I neuer will forsake hir.</p>
+                  </div>
+               </div>
+            </body>
+            <back>
+               <div type="table_of_contents">
+                  <pb facs="tcp:13312:62"/>
+                  <head>A TABLE OF ALL THE MADRIGALLS.</head>
+                  <list>
+                     <item>APrill is in my Mistris face. I.</item>
+                     <item>Clorinda. II.</item>
+                     <item>Why sit I heere complayning? III.</item>
+                     <item>Since my teares and lamenting. IIII.</item>
+                     <item>Help I fall. V.</item>
+                     <item>Ladie why grieue you still mee. VI.</item>
+                     <item>In dewe of roses. VII.</item>
+                     <item>In euery place. VIII.</item>
+                     <item>Now is the gentle season. The first part. IX.</item>
+                     <item>The fields a broad. The second part. X.</item>
+                     <item>Come Louers follow mee. XI.</item>
+                     <item>No, no, shee doth but flout mee. XII.</item>
+                     <item>I will no more come to thee. XIII.</item>
+                     <item>Beesides a fountaine. XIIII.</item>
+                     <item>Sport wee my Louely treasure. The first part. XV.</item>
+                     <item>O sweet alas. The second part. XVI.</item>
+                     <item>Hark iolly Shepherds. XVII.</item>
+                     <item>Hoe who comes heere. XVIII.</item>
+                     <item>Dye now my hart. XIX.</item>
+                     <item>Say gentle Nymphes. XX.</item>
+                  </list>
+                  <trailer>FINIS.</trailer>
+               </div>
+            </back>
+         </text>
+         <text xml:lang="eng">
+            <front>
+               <div type="title_page">
+                  <pb facs="tcp:13312:62"/>
+                  <p>MADRIGALLS</p>
+                  <p>TO FOVRE VOYCES NEWLY PVBLISHED BY THOMAS MORLEY. THE FIRST BOOKE.</p>
+                  <p>IN LONDON BY THOMAS EST IN AL<g ref="char:EOLhyphen"/>dersgate street at the signe of the black horse.</p>
+                  <p>M.D.XC.IV.</p>
+                  <p>BASSVS.</p>
+               </div>
+               <div type="encomium">
+                  <pb facs="tcp:13312:63"/>
+                  <pb facs="tcp:13312:63"/>
+                  <head>TO THE AƲTHOR.</head>
+                  <l>MORLEY! would any try whither MORe LYeth</l>
+                  <l>In our ENGLISH, to merit</l>
+                  <l>Or in th'ITALIAN spirit</l>
+                  <l>Who in regard of his each wit defieth?</l>
+                  <l>Lo the cleare proofe then if a man would make it</l>
+                  <l>(O would some one but try it)</l>
+                  <l>To choose his Song, and Gold enough lay by it,</l>
+                  <l>And say to thee; heere, better this and take it.</l>
+                  <l>I know (how ere thou lik'st them) thou could'st doe it</l>
+                  <l>Wert thou but so put to it.</l>
+                  <l>For if thou sing'st thus when nought doth incite thee</l>
+                  <l>Aware when PRAYSE and GOLD did both inuite thee.</l>
+                  <closer>
+                     <signed>Jncerto.</signed>
+                  </closer>
+               </div>
+            </front>
+            <body>
+               <div n="bassus" type="musical_part">
+                  <div n="1" type="song">
+                     <pb facs="tcp:13312:64"/>
+                     <pb facs="tcp:13312:64"/>
+                     <head>I. BASSVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">A</seg>Prill is in my Mistris face, Aprill is in my Mistris face, my Mistris face, And Iuly in hir eyes hath place, hir eyes hath place. With in hir bo<g ref="char:EOLhyphen"/>some is September, But in hir hart, But in hir heart, a could December. But in hir heart, But in hir heart a could December.</p>
+                  </div>
+                  <div n="2" type="song">
+                     <pb facs="tcp:13312:65"/>
+                     <head>II. BASSVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">C</seg>Lorinda false adieu thy loue torments mee, let Thirses haue thy hart since he cōtēts thee. Clorinda, false adieu thy loue tormēts mee; let Thirsis haue thy hart since hee cōtents thee. O griefe &amp; bitter anguish: for thee vnkind I languish. I languish. Faine I alas would hide it ij. faine I a╌las would hide it, O but who can a╌bide it? I can I can not I a╌bide it. A<g ref="char:EOLhyphen"/>dieu adieu adieu thē, ij. fare well, leaue mee death now desiring; thou hast lo thy requi╌ring. So spake Philistus
+<pb facs="tcp:13312:65"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> on his hooke re╌lying, and fell a dyeing. So spake Phili╌stus on his hooke relying, So spake Phi╌listus on his hooke re╌lying and fell a dye╌ing.</p>
+                  </div>
+                  <div n="3" type="song">
+                     <pb facs="tcp:13312:66"/>
+                     <head>III. BASSVS</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">W</seg>Hy sit I: O this this mirth cōtēteth, whome griefe of mind tormenteth tormenteth. Ah cease this wee<g ref="char:EOLhyphen"/>ping, cease alas alas this weeping, foole alas, foole alas she does but this to proue thee; a╌way a╌way a╌way a╌way false comfort false comfort thou canst not moue mee, thou canst thou canst not moue mee, thou canst thou canst not moue mee, y<seg rend="sup">u</seg> canst not moue mee. You y<seg rend="sup">t</seg> saw to much to much mine eies, shall deerly, shall deerly buy it, that made my heart espy it. Hence falce cōfort in vaine y<seg rend="sup">u</seg> doest ease mee, cōfort in vaine y<seg rend="sup">u</seg> seekst to
+<pb facs="tcp:13312:66"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> ease mee, a way I say then, a╌way thou canst not please mee. thou canst not please mee, a╌way I say thou canst not please mee.</p>
+                  </div>
+                  <div n="4" type="song">
+                     <pb facs="tcp:13312:67"/>
+                     <head>IIII. BASSVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">S</seg>Ince my teares and lamenting, false loue bred thy contenting, ij. still thus to weep for euer, these fountaines shal perseuer. shal perseuer. Till my hart griefe-brim filled, ij. griefe-brim filled. Out a╌las alas be distill╌ed. Out a╌las alas a╌las be distilled. Till my hart griefe-brim fill╌ed. ij. griefe-brim fill╌ed. Out a╌las a<g ref="char:EOLhyphen"/>las bee destill╌ed. Out a╌las a╌las a╌las bee distilled.</p>
+                  </div>
+                  <div n="5" type="song">
+                     <pb facs="tcp:13312:67"/>
+                     <head>V. BASSVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">H</seg>Elp I fall, my hope lo doth betray mee, ô help I fall, Ladie I fall, but you voutsafe to slay mee. Help I fal, I fal, my hope lo doth betray me, ô help I fall Lady I fal but you voutsafe to slay me. See a Nymph vnkind &amp; cruell, ij. vnkind &amp; cruell, ij. a Nymph vnkind and cruell, and cru╌ell, to scorn hir onely Iu╌ell. See a Nymph vnkind and cruell, ij. vnkind &amp; cruell, ij. a Nymph vnkind and cruell, and cruell, to scorne hir onely Iuell.</p>
+                  </div>
+                  <div n="6" type="song">
+                     <pb facs="tcp:13312:68"/>
+                     <head>VI. BASSVS</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">L</seg>Ady Lady why grieue you still mee? ô no, you loue mee, ij. ô no, you loue mee, ij. ô no, you loue mee: If this bee loue to kill mee. O strange tormenting, strange tormenting: ah, break, hart a╌las, break a╌las, break, break hart alas hir hart cōtēting. And you y<seg rend="sup">t</seg> now doe disdain me &amp; you that now disdain; that now disdaine mee, that now doe disdaine mee; Say then that griefe hath slaine mee, ij. say thē that griefe hath slaine, hath slaine mee. And you that now doe disdaine mee, and
+<pb facs="tcp:13312:68"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> you that now disdaien that now disdaine mee, that now doe disdaine mee! say then that griefe hath slaine mee, ij. saye then that griefe hath slaine hath slaine mee.</p>
+                  </div>
+                  <div n="7" type="song">
+                     <pb facs="tcp:13312:69"/>
+                     <head>VII. BASSVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">I</seg>N dewe of roses: Lycoris thus satt weeping. In dewe of roses; Lycrois thus satt weeping. Ah Dorus falce ij. y<seg rend="sup">t</seg> hast my hart bereft me, and now vnkind hast left mee; Heare a╌las heare O heare mee; ay mee, ay mee, can not my bewty moue thee, Pit╌ty then pitty pitye mee beecause I loue thee. Ay mee, thou skorn'st y<seg rend="sup">e</seg> more I praye thee, I praye thee, thou skorn'st y<seg rend="sup">e</seg> more I praye thee, and this thou doest thou doest to slaie mee, thou skorn'st the more I praye, and this thou doest thou doest to slaie mee, and this thou
+<pb facs="tcp:13312:69"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> doest to slaie mee, but doe then doe, ij. kil mee and vaunt thee, ij. yet my ghost still shall haunt thee, shall haunt thee.</p>
+                  </div>
+                  <div n="8" type="song">
+                     <pb facs="tcp:13312:70"/>
+                     <head>VIII. BASSVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">I</seg>N euery place ij. fierce Loue a╌las assailes assailes mee, that how can Ioy content mee? when hope and faith and all no whit auailes mee. O gentle Loue, ô gentle gentle Loue, ô gentle gentle Loue, ô graunt mee lesse to grieue to grieue mee, Or griue mee more ij. or grieue mee more and griefe will soone relieue mee.</p>
+                  </div>
+                  <div n="9" type="song">
+                     <pb facs="tcp:13312:70"/>
+                     <head>IX. BASSVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">N</seg>Ow is the gentle season freshly flowring, to sing and play and daunce while May en<g ref="char:EOLhyphen"/>dureth, to sing &amp; play &amp; daunce while May endureth, &amp; wooe &amp; wed (toe) ij. and wooe and wed (toe) and wed (toe) and wooe and wed that sweet delight procureth.</p>
+                  </div>
+                  <div n="10" type="song">
+                     <pb facs="tcp:13312:71"/>
+                     <head>X. BASSVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">T</seg>He fields abroad with spangled flowres The fields abroad with spangled flowres are guilded: The meades (are) mantled, ij. the meades (are) mantled, and closes, in May each bush arayed, and sweet wilde ro╌ses, and sweet wilde ro╌ses. The Nightin<g ref="char:EOLhyphen"/>gale hir bowre hath gay╌ly hath gayly builded, and Loues inspi╌ring: I loue I loue ij. I loue I loue (she) sings hark ij. hir mate desiring; &amp; Loues inspi<g ref="char:EOLhyphen"/>ring;
+<pb facs="tcp:13312:71"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> I loue I loue ij. I loue I loue (she) sings hark I loue I loue (she) sings hark hir mate desiring.</p>
+                  </div>
+                  <div n="11" type="song">
+                     <pb facs="tcp:13312:72"/>
+                     <head>XI. BASSVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">C</seg>Ome Louers follow mee: Soft then, softly for feare wee wake him, wee wake him, and to his bowe hee take him, and to his bowe, his bowe hee take him: whether shall wee then fly vs? shall wee then fly vs, shall wee then flye vs? And if hee come vp╌on vs, Out well a way, out well a way a way then are wee woe beegonne beegonne vs. Hence then a waye follow mee, a waye bee<g ref="char:EOLhyphen"/>gonne, hence and dispatch vs, and that a pace, that a pace, for
+<pb facs="tcp:13312:72"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> feare, for feare hee catch vs.</p>
+                  </div>
+                  <div n="12" type="song">
+                     <pb facs="tcp:13312:73"/>
+                     <head>XII. BASSVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">N</seg>O no no no no no thou doest but flout mee, thou doest flout, thou doest flout mee, thou doest but flout but flout mee: fie a way, fie a way I say a way I say nay thou, nay thou nay thou canst liue without mee y<seg rend="sup">u</seg> canst liue well with out mee, yea thou canst liue canst liue with out mee. Since for mee then you care not, since for mee then you care not spite mee and spare not. O heauie parting. Turne ô turne, turne ô turne &amp; cure this smarting. Come thē ô come with comfort, come then ô
+<pb facs="tcp:13312:73"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> come with Comfort pi╌tie my cry╌ing. help a╌las, help for now I lye a dye╌ing. come then ô come with com╌fort, come then ô come with cōfort pi╌tie my cry╌ing, help a╌las help for now I lye a dying.</p>
+                  </div>
+                  <div n="13" type="song">
+                     <pb facs="tcp:13312:74"/>
+                     <head>XIII. BASSVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">I</seg> wil no more no more come to thee y<seg rend="sup">t</seg> floutst mee when I woe thee. I will no more no more come to thee, that flowtst mee when I woe thee. Still ty hy hy hy hy y<seg rend="sup">u</seg> cryest, still ty hy hy hy hy ij. ty hy hy thou cryest, &amp; all my louely rings &amp; my pinnes &amp; my gloues deniest. O say alas, thē ô say a╌las what moues thee, to grieue him so y<seg rend="sup">t</seg> loues thee, to grieue him so y<seg rend="sup">t</seg> loues thee? Leaue a╌las leaue then ah leaue tormenting, ah leaue ah leaue then leaue a while a<g ref="char:EOLhyphen"/>las ah leaue tormenting, and giue my burning yet yet some small re<g ref="char:EOLhyphen"/>lenting.
+<pb facs="tcp:13312:74"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> Leaue a╌las leaue then ah leaue tormenting, ah leaue ah leaue then, leaue a while a╌las ah leaue tormenting, and giue my burning, yet yet some small re╌lenting.</p>
+                  </div>
+                  <div n="14" type="song">
+                     <pb facs="tcp:13312:75"/>
+                     <head>XIIII. BASSVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">B</seg>Eesides a fountaine, heard I two Louers talk in sweet and wanton gloses. Besides a foun<g ref="char:EOLhyphen"/>taine heard I two Louers talk in sweet &amp; wāton gloses. Say dainty deere, quoth hee, to whom is thy liking ty╌ed? To whom but thee my bonny loue my loue y<seg rend="sup">e</seg> gentle Nimphe replied? I die, I die I die quoth hee? &amp; I &amp; I &amp; I said shee: Ah giue mee, giue mee then quoth hee (but durst not say but durst not say) some token; and with his hands the rest hee would haue spo<g ref="char:EOLhyphen"/>ken. Fie a╌way, nay fie a╌way she cryed then: fie a╌way, nay fie a<g ref="char:EOLhyphen"/>way
+<pb facs="tcp:13312:75"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> then cry'd the Nimph, nay fie, a╌las, you well doe know it, quoth hee sweetly come kisse mee then and shew it.</p>
+                  </div>
+                  <div n="15" type="song">
+                     <pb facs="tcp:13312:76"/>
+                     <head>The first part. XV. BASSVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">S</seg>Port wee, ij. Sport wee my louely treasure, ij. Sport wee my louely louely treasure, For why, long loue lōg seruing, Asketh e<g ref="char:EOLhyphen"/>quall de╌seruing. ij. Let bee our sportfull pleasure, ij. Let bee our sportfull pleasure, our sportfull pleasure, ij. To kisse to kisse to kisse now, To kisse to kisse, To kisse the while wee may now; To kisse the while wee
+<pb facs="tcp:13312:76"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> may wee may now, And that you wot well what loues other to╌ken, Ioy more then can bee spoken. Ioy more then can bee spoken, Ioy more then can bee spoken, bee spo╌ken.</p>
+                  </div>
+                  <div n="16" type="song">
+                     <pb facs="tcp:13312:77"/>
+                     <head>The second part. XVI. BASSVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">O</seg> Sweet a╌las, O Sweet a╌las what say you? O sweet a╌las, O sweet a╌las what say you? ay mee, ij. ay mee, ay mee that face, ay mee that face discloses the Scarlet blush, the Scarlet blush of sweet vermillan roses, and yet a╌las, and yet a╌las a╌las I know not, If such a crimsen stayning, be for loue or disdaining. But if of loue it grow not, ij. But if of loue, but if of loue it grow not, bee it disdain cōceiued, to see vs of loues fruits so long be╌reued, so long be╌reued. But if of loue it grow not, ij.
+<pb facs="tcp:13312:77"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> But if of loue, but if of loue it grow not, Bee it disdain con<g ref="char:EOLhyphen"/>ceiued, to see vs of loues fruites so long be╌reued so long bee╌reued.</p>
+                  </div>
+                  <div n="17" type="song">
+                     <pb facs="tcp:13312:78"/>
+                     <head>XVII. BASSVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">H</seg>Ark iolly Shepheards: Gowe then, why sit wee heere delaying? sit wee heere thus delay<g ref="char:EOLhyphen"/>ing. Gowe then why sit wee heere de╌lay╌ing, sit wee delaying and all you merry wanton lasses playing, &amp; all yon merry merry wanton wanton lasses playing, and all yon merry merry wanton lasses wanton lasses playing? How gayly Flora leades it, and how she sweetly treads it? The woods and groues they ring, lowdly resounding lowdly resoun<g ref="char:EOLhyphen"/>ding, with Eccho bounding. The woods and groues they ring lowd<g ref="char:EOLhyphen"/>ly
+<pb facs="tcp:13312:78"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> resounding, lowdly resounding, with Eccho sweet rebounding.</p>
+                  </div>
+                  <div n="18" type="song">
+                     <pb facs="tcp:13312:79"/>
+                     <head>XVIII. BASSVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">H</seg>Oe who comes heere: with bagpiping and drūming, tis the Morris daūce ij. a cōming with bagpiping &amp; drūming? tis the Morris daūce ij. a com<g ref="char:EOLhyphen"/>ming. Come come Ladies, come Ladies out, come quickly, come Ladies out, come ye ladies out, come ladies out, ô come, come quickly, &amp; see how trim they daūce trimly &amp; trickly, &amp; see about how trim they daūce, how trim &amp; trickly. Hey ther a╌gayn, hey ho ther again againe hey ther again ther a<g ref="char:EOLhyphen"/>gain, again, again, how y<seg rend="sup">e</seg> bells they shake, hey they shake it? now for
+<pb facs="tcp:13312:79"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> our town now for our town hey, now for our town once more and take it. Soft a while not a way so fast they melt them. What Piper ho! be hang'd a while knaue thē, seest thou not, ij. the daūcers how they swelt them, the dauncers swelt them. Out there, out a while stand out there; fie you come to farre I say in: ther, giue y<seg rend="sup">e</seg> hobby horse more rome, more rome to play in, more rome to play in.</p>
+                  </div>
+                  <div n="19" type="song">
+                     <pb facs="tcp:13312:80"/>
+                     <head>XIX. BASSVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">D</seg>Ye now my heart exi╌led. dye now my hart frō thy delight delight exiled, thy loue is dead and all our hope bee╌guiled our hope beeguiled. O Death ô Death vnkind and cruell, to rob the world so, of that hir fayrest iewell, hir fairest iewell. ij. Now shoot at mee now shoot &amp; spare not, now shoot at mee now shoot and spare not ij. kill mee I care not, O thinck not Death a╌las thy dart will paine mee, thinck not thy dart will payne mee, why shouldst why shouldst thou
+<pb facs="tcp:13312:80"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> heere against my will retaine mee? O heare a dolfull, a dolfull wretches crying, or I dye for want of dyeing, or I dye for wāt I dye for wāt of dye<g ref="char:EOLhyphen"/>ing, or I dye I dye for want of dye╌ing.</p>
+                  </div>
+                  <div n="20" type="song">
+                     <pb facs="tcp:13312:81"/>
+                     <head>XX. BASSVS.</head>
+                     <p>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap>
+                        <seg rend="decorInit">S</seg>Ay gentle Nymphes that tread these moun<g ref="char:EOLhyphen"/>taines, Say gentle Nymphes that tread these moun<g ref="char:EOLhyphen"/>taines, whilst sweetly you sit playing sit playing, whilst sweetly sweet╌ly you sit playing, sweetly sit playing, whilst sweetly you sit playing, Saw you my Daphne ij. Saw you my Daphne straying a<g ref="char:EOLhyphen"/>long your Cristall fountaines? If so you chaūce to meet hir, kisse hir and kindly greet hir, and greet hir, then these sweet garlands, take hir, and say from mee, and say from mee I neuer will forsake hir, If so you chaunce to meet
+<pb facs="tcp:13312:81"/>
+                        <gap reason="music">
+                           <desc>〈♫〉</desc>
+                        </gap> hir, kisse hir and kindly greet hir, and greet hir, then these sweet garlands take hir and say from mee, and say from mee I neuer will forsake hir.</p>
+                  </div>
+               </div>
+            </body>
+            <back>
+               <div type="table_of_contents">
+                  <pb facs="tcp:13312:82"/>
+                  <head>A TABLE OF ALL THE MADRIGALLS.</head>
+                  <list>
+                     <item>APrill is in my Mistris face. I.</item>
+                     <item>Clorinda. II.</item>
+                     <item>Why sit I heere complayning? III.</item>
+                     <item>Since my teares and lamenting. IIII.</item>
+                     <item>Help I fall. V.</item>
+                     <item>Ladie why grieue you still mee. VI.</item>
+                     <item>In dewe of roses. VII.</item>
+                     <item>In euery place. VIII.</item>
+                     <item>Now is the gentle season. The first part. IX.</item>
+                     <item>The fields a broad. The second part. X.</item>
+                     <item>Come Louers follow mee. XI.</item>
+                     <item>No, no, shee doth but flout mee. XII.</item>
+                     <item>I will no more come to thee. XIII.</item>
+                     <item>Beesides a fountaine. XIIII.</item>
+                     <item>Sport wee my Louely treasure. The first part. XV.</item>
+                     <item>O sweet alas. The second part. XVI.</item>
+                     <item>Hark iolly Shepherds. XVII.</item>
+                     <item>Hoe who comes heere. XVIII.</item>
+                     <item>Dye now my hart. XIX.</item>
+                     <item>Say gentle Nymphes. XX.</item>
+                  </list>
+                  <trailer>FINIS.</trailer>
+                  <pb facs="tcp:13312:82"/>
+               </div>
+            </back>
+         </text>
+      </group>
+   </text>
+</TEI>
